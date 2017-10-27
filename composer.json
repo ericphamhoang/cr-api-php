@@ -1,0 +1,17 @@
+{
+    "name": "ericphamhoang/cr-api-php",
+    "type": "library",
+    "description": "PHP Wrapper for Clash Royale API https://github.com/cr-api/cr-api",
+    "keywords": ["clash royale","api"],
+    "homepage": "https://github.com/ericphamhoang/cr-api-php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eric Pham Hoang",
+            "email": "ericphamhoang@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
